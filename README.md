@@ -10,4 +10,4 @@ Omar Braik
 To practice shell commands, Git initialization, status checking, staging, and committing.
 
 ## Reflection
-Git helps track changes without creating many duplicate filenames.
+This line has been change as asked in the third exercise.
