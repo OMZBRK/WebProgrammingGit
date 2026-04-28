@@ -7,3 +7,5 @@ git status : displays the current status of the working directory and staging ar
 git add : used to place modified, new, or deleted files in Git's index (or staging area), preparing them for saving in the next commit.
 git commit : used to save a snapshot of staged changes (staged) in the local history of the Git project.
 
+## Challenge Task
+This line is for the challenge task.
